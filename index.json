@@ -1,0 +1,23 @@
+[
+    {
+        "nome da empresa": "zé_do_espeto", 
+        "produtos": "espetinhos",
+        "valores": 8.10,
+        "endereço": {
+        
+            "rua": "rua_tal",    
+        "bairro":"mooca",    
+        "numero da residencia":148,    
+        "cidade": "São_paulo"   
+
+     }
+        
+
+    }
+]
+
+
+
+
+
+
